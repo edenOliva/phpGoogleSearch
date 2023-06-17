@@ -1,2 +1,2 @@
-# phpGoogleSearch - love you
+# phpGoogleSearch 
  

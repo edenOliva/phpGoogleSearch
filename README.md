@@ -4,6 +4,7 @@
 
 > Simply type in your query, hit the "Search" button, and voila! 🎉 The project will open a Google search results page for your query in the same tab.
 
+![Alt Text](./phpSearch.gif)
 
 ## 📝 Instructions
 1. Enter your search query in the provided text field.
